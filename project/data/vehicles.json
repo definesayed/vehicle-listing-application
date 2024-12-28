@@ -1,0 +1,26 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "234324",
+        "image": "https:\/\/www.bmw.com.sg\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "R15 V3",
+        "type": "Bike",
+        "price": "7000",
+        "image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2020\/08\/yamaha-r15-dark-knight.jpg"
+    },
+    {
+        "name": "Lamborghini SI\u00c1N FKP 37",
+        "type": "Car",
+        "price": "5000000",
+        "image": "https:\/\/www.lamborghini.com\/sites\/it-en\/files\/DAM\/lamborghini\/facelift_2019\/model_detail\/few_off\/sian-fkp-37\/2022\/06_20\/sian_hero_01.jpg"
+    },
+    {
+        "name": "Koenigsegg",
+        "type": "Car",
+        "price": "2000000",
+        "image": "https:\/\/koenigsegg-cdn-g7eehhd6f0ewcaff.z02.azurefd.net\/drupal\/styles\/1920x1400\/azure\/2024-02\/CC850%20in%20the%20desert%20Gradient.png?h=d7a1b779&itok=wXLIn7VA"
+    }
+]
